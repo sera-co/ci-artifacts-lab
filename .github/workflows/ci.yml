@@ -2,9 +2,9 @@ name: CI Build, Test, and Package
 
 on:
   push:
-    branches: [ main ]
+    branches: ['*']
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 # A three-job pipeline that builds, tests, and packages the application.
 jobs:

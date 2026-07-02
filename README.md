@@ -1,1 +1,2 @@
 # ci-artifacts-lab
+test
